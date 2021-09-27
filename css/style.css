@@ -111,12 +111,12 @@ header{
     margin:auto;
 }
 
-.cameraimgs,.fromlefts{
+.cameraimgs.fromlefts{
     animation-name: myanifromleft;
     animation-duration: 3s;
 }
 
-.missiontexts,.fromright{
+.missiontexts.fromrights{
     animation-name: myanifromright;
     animation-duration: 3s;
 
